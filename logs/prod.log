@@ -11,3 +11,7 @@
 {"level":"error","message":"Login-pw: Invalid credentials from beullarugero6@gmail.com","timestamp":"2024-02-22 18:38:28"}
 {"level":"error","message":"Login: secretOrPrivateKey must have a value","timestamp":"2024-02-22 18:38:39"}
 {"level":"error","message":"Adding business owner:Required fields are missing:identification","timestamp":"2024-03-01 17:08:49"}
+{"level":"error","message":"Adding business owner:Required fields are missing:citizenship, registrationDate, purposeOfImportation, Weight","timestamp":"2024-03-01 17:31:16"}
+{"level":"error","message":"Adding business owner:Required fields are missing:registrationDate, purposeOfImportation, Weight","timestamp":"2024-03-01 17:32:55"}
+{"level":"error","message":"Adding business owner: Invalid phone number:12345678","timestamp":"2024-03-01 17:37:01"}
+{"level":"error","message":"Adding business owner:Required fields are missing:citizenship","timestamp":"2024-03-01 17:38:09"}

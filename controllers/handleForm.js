@@ -17,7 +17,7 @@ const pool = mysql.createPool({
   });
 const registration=(req,res)=>{
     try{
-        
+        console.log(req.body)
         const{citizenship,identification,phoneNumber,address,email,businessType,companyName,tinNumber,registrationDate,businessaddress,purposeOfImportation,productCategory,Weight,unitOfMeasurement,quantity,description}=req.body
         const requiredFields=['citizenship','phoneNumber','address','email','businessType','companyName','tinNumber','registrationDate','businessaddress','purposeOfImportation','productCategory','Weight','unitOfMeasurement','quantity','description']
         const missingFields=validateFields(req,requiredFields)
