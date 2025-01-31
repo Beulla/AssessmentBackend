@@ -15,3 +15,4 @@
 {"level":"error","message":"Adding business owner:Required fields are missing:registrationDate, purposeOfImportation, Weight","timestamp":"2024-03-01 17:32:55"}
 {"level":"error","message":"Adding business owner: Invalid phone number:12345678","timestamp":"2024-03-01 17:37:01"}
 {"level":"error","message":"Adding business owner:Required fields are missing:citizenship","timestamp":"2024-03-01 17:38:09"}
+{"level":"error","message":"Adding business owner: Invalid phone number:234234","timestamp":"2025-01-31 11:15:40"}
